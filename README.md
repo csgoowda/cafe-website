@@ -8,44 +8,147 @@
 
   <br />
   <br />
+# ☕ Mysur Cafe – Restaurant Website
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+A modern, responsive restaurant website for **Mysur Cafe**, built using HTML, CSS, and JavaScript. The website provides an attractive interface to showcase the café, menu, services, and contact information with a smooth user experience on desktop and mobile devices.
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+---
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+## 📌 Features
 
-</div>
+- 🏠 Responsive Home Page
+- 🍽️ Interactive Food Menu
+- 📖 About Us Section
+- ⭐ Customer Testimonials
+- 🍛 Featured Special Dish
+- 📸 Food Gallery
+- 📞 Contact Information
+- 📱 Mobile-Friendly Navigation
+- ⬆️ Back-to-Top Button
+- ✨ Smooth Animations & Transitions
 
-<br />
+---
 
+## 🛠️ Technologies Used
 
-### Prerequisites
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Ionicons
+- Google Fonts
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 📂 Project Structure
 
-### Run Locally
-
-To run **Grilli** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+```
+Mysur-Cafe/
+│
+├── index.html
+├── README.md
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── images/
+│       ├── hero-slider-1.png
+│       ├── menu-1.jpg
+│       ├── service-1.jpg
+│       ├── about-banner.png
+│       └── ...
 ```
 
-Windows:
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/your-username/mysur-cafe.git
 ```
 
-### Contact
+2. Open the project folder.
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+3. Open `index.html` in your browser.
 
-### License
+No installation or server is required.
 
+---
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
+
+---
+
+## ✨ Website Sections
+
+- Home
+- Services
+- About Us
+- Special Dish
+- Food Menu
+- Customer Testimonials
+- Events
+- Footer
+
+---
+
+## 🎯 Future Improvements
+
+- Online Food Ordering
+- QR Code Menu
+- UPI Payment Integration
+- Customer Feedback System
+- Admin Dashboard
+- Reservation System
+- Google Maps Integration
+- Dark Mode
+
+---
+
+## 📷 Screenshots
+
+Add screenshots here after deploying the project.
+
+Example:
+
+```
+assets/screenshots/home.png
+assets/screenshots/menu.png
+```
+
+---
+
+## 👨‍💻 Author
+
+**Chethan S Gowda**
+
+Information Science Engineering Student
+
+GitHub: https://github.com/csgoowda
+
+---
+
+## 📄 License
+
+This project is created for educational and portfolio purposes.
+
+Feel free to customize and improve it.
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ star the repository on GitHub.
 [MIT](https://choosealicense.com/licenses/mit/)
