@@ -1,0 +1,340 @@
+MYSUR CAFE - Authentic South Indian Restaurant
+
+A responsive restaurant website for Mysur Cafe showcasing authentic South Indian cuisine,
+special dishes, menu, customer reviews, and contact information.
+
+#---------- TOP BAR ----------#
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Vijayanagar 3rd Stage, Mysuru, Karnataka
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Daily : 7.00 am to 10.00 pm
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++91 98765 43210
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+info@mysurcafe.com
+
+
+
+#---------- HEADER ----------#
+
+alt = Mysur Cafe Logo
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Menu
+About Us
+Special Menu
+Contact
+
+Visit Us
+
+Mysur Cafe
+Vijayanagar 3rd Stage,
+Mysuru, Karnataka
+
+Open:
+7.00 am - 10.00 pm
+
+info@mysurcafe.com
+
+Contact
++91 98765 43210
+
+Explore Menu
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+Authentic Mysore Taste
+
+Experience the
+Authentic Flavor of Mysuru
+
+Traditional recipes prepared fresh every day.
+
+Explore Menu
+
+Fresh • Authentic • Delicious
+
+Traditional Flavors
+Made Fresh Every Day
+
+Taste of Mysuru
+
+Fresh Ingredients • Rich Heritage
+
+
+
+#---------- SERVICE ----------#
+
+Fresh • Authentic • Delicious
+
+Our Special Menu
+
+Discover a variety of freshly prepared South Indian delicacies,
+crispy snacks, refreshing beverages, and wholesome meals.
+
+Breakfast
+
+View Menu
+
+Snacks
+
+View Menu
+
+Beverages
+
+View Menu
+
+
+
+#---------- ABOUT ----------#
+
+About Us
+
+Serving Fresh Flavors Every Day
+
+We are passionate about serving authentic South Indian cuisine
+prepared with fresh ingredients and traditional recipes.
+Every meal is prepared with care to deliver unforgettable taste.
+
+Order & Reservations
+
++91 98765 43210
+
+Explore Menu
+
+
+
+#---------- SPECIAL DISH ----------#
+
+Chef's Special
+
+Crispy Masala Dosa
+
+Golden crispy dosa stuffed with delicious potato masala,
+served with fresh coconut chutney and hot sambar.
+
+₹99
+
+View Full Menu
+
+
+
+#---------- MENU ----------#
+
+Our Popular Dishes
+
+Delicious Menu
+
+1.
+Idli
+
+Popular
+
+₹40
+
+Soft steamed rice cakes served with fresh chutney and sambar.
+
+----------------------------------------------------
+
+2.
+Masala Dosa
+
+₹80
+
+Crispy dosa stuffed with spicy potato filling,
+served with chutneys and sambar.
+
+----------------------------------------------------
+
+3.
+Plain Dosa
+
+₹60
+
+Thin crispy dosa served with coconut chutney and sambar.
+
+----------------------------------------------------
+
+4.
+Medu Vada
+
+Fresh
+
+₹35
+
+Golden crispy lentil fritters served with chutney and sambar.
+
+----------------------------------------------------
+
+5.
+Pongal
+
+₹55
+
+Creamy rice and lentil dish seasoned with pepper and ghee.
+
+----------------------------------------------------
+
+6.
+Poori Bhaji
+
+₹70
+
+Soft fluffy pooris served with delicious potato curry.
+
+----------------------------------------------------
+
+7.
+South Indian Meals
+
+Best Seller
+
+₹120
+
+Rice, sambar, rasam, vegetables, curd and pickle.
+
+----------------------------------------------------
+
+8.
+Lemon Rice
+
+₹70
+
+Tangy rice flavored with lemon and roasted peanuts.
+
+----------------------------------------------------
+
+9.
+Filter Coffee
+
+₹25
+
+Authentic South Indian filter coffee.
+
+----------------------------------------------------
+
+10.
+Masala Tea
+
+₹20
+
+Freshly brewed tea blended with aromatic spices.
+
+Open Daily
+7:00 AM to 10:00 PM
+
+View Full Menu
+
+
+
+#---------- TESTIMONIALS ----------#
+
+"
+
+Every visit to Mysur Cafe is a delightful experience.
+Fresh food, authentic taste and excellent service make it
+our favorite place to dine.
+
+Happy Customer
+
+
+
+#---------- FEATURES ----------#
+
+Why Choose Us
+
+Our Strength
+
+Fresh Ingredients
+
+Authentic South Indian Taste
+
+Fast Service
+
+Affordable Prices
+
+
+
+#---------- EVENTS ----------#
+
+Latest Updates
+
+Today's Specials
+
+Chef's Recommendations
+
+Seasonal Special Dishes
+
+Traditional Breakfast Combos
+
+Weekend Family Meals
+
+View More
+
+
+
+#---------- FOOTER ----------#
+
+alt = Mysur Cafe Logo
+
+Mysur Cafe
+Vijayanagar 3rd Stage
+Mysuru, Karnataka
+
+info@mysurcafe.com
+
+Contact
++91 98765 43210
+
+Open Daily
+7:00 AM - 10:00 PM
+
+Stay Connected
+
+Subscribe for latest offers and updates.
+
+placeholder = Your Email Address
+
+Subscribe
+
+Home
+
+Menu
+
+About Us
+
+Services
+
+Contact
+
+Facebook
+
+Instagram
+
+WhatsApp
+
+Google Maps
+
+
+
+© 2026 Mysur Cafe
+All Rights Reserved.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
